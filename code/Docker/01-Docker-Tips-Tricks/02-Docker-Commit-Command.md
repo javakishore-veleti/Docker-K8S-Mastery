@@ -10,7 +10,7 @@ docker run --name container-with-git ubuntu:latest /bin/bash -c \
 
 ```
 
-![docker run with git install](./02-01-containers-with-git-install.PNG)
+![docker run with git install](./images/02-01-containers-with-git-install.PNG)
 
 ## docker commit command
 
@@ -22,4 +22,4 @@ docker commit -a "your_user_name_here" -m "Installed git" container-with-git ima
 
 ```
 
-![docker commit of an existing container](./02-02-containerswith-git-commit.PNG)
+![docker commit of an existing container](./images/02-02-containerswith-git-commit.PNG)

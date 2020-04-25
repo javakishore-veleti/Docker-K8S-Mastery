@@ -17,7 +17,7 @@ docker rm my-first-image
 
 ```
 
-![Container Differences](./01-01-containers-diff-command.PNG)
+![Container Differences](./images/01-01-containers-diff-command.PNG)
 
 # docker diff command
 
@@ -33,4 +33,4 @@ docker rm my-first-image
 
 ```
 
-![Container Differences multiple files](./01-02-containers-diff-cmd-multiple-files.PNG)
+![Container Differences multiple files](./images/01-02-containers-diff-cmd-multiple-files.PNG)

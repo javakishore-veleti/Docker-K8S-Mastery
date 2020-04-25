@@ -13,6 +13,6 @@ docker diff my-first-image
 
 ```
 
-![Container Differences](./01-docker-containers-diff-command.png)
+![Container Differences](./01-docker-containers-diff-command.PNG)
 
 

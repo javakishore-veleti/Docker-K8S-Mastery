@@ -13,6 +13,9 @@ docker diff my-first-image
 
 ```
 
-![Container Differences](./01-docker-containers-diff-command.PNG)
+![Container Differences](./01-01-containers-diff-command.PNG)
 
+Below is antother output of "docker diff" command. C stands for change and A stands for added.
+
+![Container Differences multiple files](./01-02-containers-diff-cmd-multiple-files.PNG)
 

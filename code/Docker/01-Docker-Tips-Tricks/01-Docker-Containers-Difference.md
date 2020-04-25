@@ -1,7 +1,9 @@
 
+# Docker "diff" command to find the differences between base image and the new image
+
 # Docker "diff" command
 
-Docker "diff" command allow to know the difference between a new Docker image and its new image.
+A Docker diff command allows to know the difference between a new Docker image and its new image.
 
 Commands are:
 
@@ -16,6 +18,8 @@ docker rm my-first-image
 ```
 
 ![Container Differences](./01-01-containers-diff-command.PNG)
+
+# docker diff command
 
 Below is antother output of "docker diff" command. C stands for change and A stands for added.
 

@@ -1,7 +1,7 @@
 
 # 01  Docker commands that uses the  "commit" command
 
-## Below docker run command installs git in a container
+## docker run command installing git in a container
 
 ``` sh
 
@@ -22,7 +22,7 @@ docker commit -a "your_user_name_here" -m "Installed git" container-with-git ima
 
 ![docker commit of an existing container](./images/02-02-containerswith-git-commit.PNG)
 
-# Using docker commit image further
+## docker commit(ed) image further usage
 
 Below commands show how we can usage the above committed image to create future containers.
 

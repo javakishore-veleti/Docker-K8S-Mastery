@@ -12,6 +12,7 @@ docker run --name my-first-image ubuntu:latest touch /MyFirstImageNotes.txt
 docker diff my-first-image
 
 ```
-![Docker containers difference](01-docker-containers-diff-command.png)
+
+![Container Differences](./01-docker-containers-diff-command.png)
 
 

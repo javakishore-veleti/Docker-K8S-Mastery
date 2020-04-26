@@ -20,4 +20,4 @@ docker container rm python-app-server
 docker volume rm application-config-volume
 
 ```
-![docker volumes creation](./images/05-01-volume-creation.PNG)
+![docker volumes creation](./images/05-01-volume-creation.png)

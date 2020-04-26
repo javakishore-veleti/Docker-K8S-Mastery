@@ -30,3 +30,16 @@ docker rm python-cont-first-no-outbound python-cont-second-joining-first
 ```
 
 ![containers with inter connect](./images/04-02-containers-ineter-connect.PNG)
+
+## Docker container joining bridge network
+
+Below container joins a bridge network using --net bridge attribute
+
+```sh
+
+docker run --name container-with-bridge-network --net bridge alpine:latest ip addr
+
+docker rm container-with-bridge-network
+
+```
+![container with bridge network](./images/04-03-container-bridge-network.PNG)
